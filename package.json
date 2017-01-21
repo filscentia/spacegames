@@ -1,0 +1,23 @@
+{
+  "name": "computer-spacegames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew B White",
+  "license": "MIT",
+  "devDependencies": {
+    "cli-clear": "^1.0.4",
+    "eslint": "^3.9.0",
+    "eslint-config-google": "^0.7.0"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "cli-clear": "^1.0.4",
+    "figlet": "^1.2.0",
+    "readline-sync": "^1.4.5"
+  }
+}
