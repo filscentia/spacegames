@@ -9,7 +9,10 @@ I got the idea from the concept of 'breaking the fourth wall' - the idea here be
 
 # How to use these programs
 
-The programs are written in JavaScript - with the aim of running inside node.js from the command line. 
+The programs are written in JavaScript - with the aim of running inside [node.js](https://nodejs.org/en/) from the command line. 
 
-Q: Command Line? Yes _ I beieve that this the best way to learn to program - you are directly issuing instructions to the computer. 
+# FAQs
+*Q* Command Line?
+
+*A* Yes _ I beieve that this the best way to learn to program - you are directly issuing instructions to the computer. 
 
