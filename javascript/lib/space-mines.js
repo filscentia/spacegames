@@ -1,5 +1,3 @@
-'use strict';
-
 const readline = require('readline-sync');
 const chalk = require('chalk');
 const clear = require("cli-clear");

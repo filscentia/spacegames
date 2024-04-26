@@ -1,7 +1,4 @@
 
-// starship-takeoff 
-'use strict';
-
 const readline = require('readline-sync');
 const chalk = require('chalk');
 
